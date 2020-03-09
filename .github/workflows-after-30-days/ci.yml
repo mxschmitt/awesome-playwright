@@ -1,0 +1,15 @@
+name: CI
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Test awesome-lint with custom file path
+      uses: jthegedus/github-action-awesome-lint@68fc989d5a01aa127ce502a59f72ebe4166386f1

@@ -1,4 +1,4 @@
-# Awesome Playwright [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [Playwright](https://github.com/microsoft/playwright) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome tools, utils and projects using Playwright
 

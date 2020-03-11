@@ -19,6 +19,7 @@
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 - [playwright-video](https://github.com/qawolf/playwright-video) - Record your Chromium browser sessions.
 - [playwright-utils](https://github.com/qawolf/playwright-utils) - Utilities for Playwright.
+- [playwright-docs](https://docs.playwright.tech) - Inofficial docs of the latest Playwright release.
 
 ## Contribute
 

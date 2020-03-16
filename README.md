@@ -12,8 +12,9 @@
 - [jest-playwright](https://github.com/mmarkelov/jest-playwright/) - Jest adapter for running Playwright.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
 - [QA Wolf](https://github.com/qawolf/qawolf) - Create browser tests 10x faster.
-- [playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions
-- [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) - Browser build for Playwright to run on Amazon Linux 2
+- [playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
+- [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) - Browser build for Playwright to run on Amazon Linux 2.
+- [playwright-sharp](https://github.com/kblok/playwright-sharp) - Playwright port to .NET.
 
 ## Utils
 
@@ -22,7 +23,8 @@
 - [playwright-video](https://github.com/qawolf/playwright-video) - Record your Chromium browser sessions.
 - [playwright-utils](https://github.com/qawolf/playwright-utils) - Utilities for Playwright.
 - [playwright-docs](https://docs.playwright.tech) - Inofficial docs of the latest Playwright release.
-- [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright
+- [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+- [playwright-ci](https://github.com/qawolf/playwright-ci) - Set up Playwright in your CI easily.
 
 ## Contribute
 

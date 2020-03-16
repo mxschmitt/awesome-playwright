@@ -20,6 +20,7 @@
 - [playwright-video](https://github.com/qawolf/playwright-video) - Record your Chromium browser sessions.
 - [playwright-utils](https://github.com/qawolf/playwright-utils) - Utilities for Playwright.
 - [playwright-docs](https://docs.playwright.tech) - Inofficial docs of the latest Playwright release.
+- [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright
 
 ## Contribute
 

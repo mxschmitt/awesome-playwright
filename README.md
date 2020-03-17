@@ -25,6 +25,7 @@
 - [playwright-docs](https://docs.playwright.tech) - Inofficial docs of the latest Playwright release.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 - [playwright-ci](https://github.com/qawolf/playwright-ci) - Set up Playwright in your CI easily.
+- [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
 
 ## Contribute
 

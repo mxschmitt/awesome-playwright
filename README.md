@@ -21,11 +21,11 @@
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 - [playwright-video](https://github.com/qawolf/playwright-video) - Record your Chromium browser sessions.
-- [playwright-utils](https://github.com/qawolf/playwright-utils) - Utilities for Playwright.
 - [playwright-docs](https://docs.playwright.tech) - Inofficial docs of the latest Playwright release.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 - [playwright-ci](https://github.com/qawolf/playwright-ci) - Set up Playwright in your CI easily.
 - [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
+- [expect-playwright](https://github.com/mxschmitt/expect-playwright) - Utility functions for Jest to perform expect based checks.
 
 ## Contribute
 

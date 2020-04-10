@@ -2,6 +2,8 @@
 
 > A curated list of awesome tools, utils and projects using Playwright
 
+Playwright is a Node.js library to automate Firefox, Webkit and Chromium based browsers via a single API. It's created by the same maintainers as the Puppeteer project and with the applied lessons learned decision.
+
 ## Contents
 
 - [Integrations](#integrations)

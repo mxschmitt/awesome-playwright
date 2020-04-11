@@ -1,8 +1,8 @@
-# Awesome [Playwright](https://github.com/microsoft/playwright) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Playwright [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome tools, utils and projects using Playwright
 
-Playwright is a Node.js library to automate Firefox, Webkit and Chromium based browsers via a single API. It's created by the same maintainers as the Puppeteer project and with the applied lessons learned decision.
+[Playwright](https://github.com/microsoft/playwright) is a Node.js library to automate Firefox, WebKit and Chromium based browsers via a single API.
 
 ## Contents
 

@@ -18,6 +18,7 @@
 - [playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
 - [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) - Browser build for Playwright to run on Amazon Linux 2.
 - [playwright-sharp](https://github.com/kblok/playwright-sharp) - Playwright port to .NET with C#.
+- [playwright-github-action](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 
 ## Utils
 

@@ -30,7 +30,7 @@
 - [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - Utility functions for Jest to perform expect based checks.
 - [eslint-plugin-jest-playwright](https://github.com/playwright-community/eslint-plugin-jest-playwright) - ESLint globals for the usage with Jest Playwright.
-- [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in Kubernetes cluster.
+- [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## Showcases
 

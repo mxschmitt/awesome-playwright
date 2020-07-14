@@ -20,7 +20,7 @@
 - [playwright-sharp](https://github.com/kblok/playwright-sharp) - Playwright port to .NET with C#.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 - [playwright-python](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
-- [pytest-playwright](https://github.com/mxschmitt/pytest-playwright/) - Pytest Plugin for using Playwright pages with fixtures.
+- [pytest-playwright](https://github.com/mxschmitt/pytest-playwright/) - Pytest plugin for using Playwright pages with fixtures.
 - [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
 
 ## Utils

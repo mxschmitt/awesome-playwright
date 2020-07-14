@@ -19,6 +19,9 @@
 - [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) - Browser build for Playwright to run on Amazon Linux 2.
 - [playwright-sharp](https://github.com/kblok/playwright-sharp) - Playwright port to .NET with C#.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
+- [playwright-python](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
+- [pytest-playwright](https://github.com/mxschmitt/pytest-playwright/) - Pytest plugin for using Playwright pages with fixtures.
+- [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
 
 ## Utils
 
@@ -31,6 +34,7 @@
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - Utility functions for Jest to perform expect based checks.
 - [eslint-plugin-jest-playwright](https://github.com/playwright-community/eslint-plugin-jest-playwright) - ESLint globals for the usage with Jest Playwright.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+- [playwright-session](https://github.com/domderen/playwright-session) - Visual Debugger for Playwright automation.
 
 ## Showcases
 
@@ -41,6 +45,7 @@
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 - [Blockstack](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+- [Heroku Playwright Example](https://github.com/mxschmitt/heroku-playwright-example) - Example using Playwright on Heroku.
 
 ## Contribute
 

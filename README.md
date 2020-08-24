@@ -9,6 +9,7 @@
 - [Integrations](#integrations)
 - [Utils](#utils)
 - [Showcases](#showcases)
+- [Guides](#guides)
 
 ## Integrations
 

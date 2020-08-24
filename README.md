@@ -9,6 +9,7 @@
 - [Integrations](#integrations)
 - [Utils](#utils)
 - [Showcases](#showcases)
+- [Guides](#guides)
 
 ## Integrations
 
@@ -46,6 +47,11 @@
 - [Blockstack](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 - [Heroku Playwright Example](https://github.com/mxschmitt/heroku-playwright-example) - Example using Playwright on Heroku.
+
+## Guides
+
+- [theheadless.dev](https://theheadless.dev) - Practical guides and runnable examples on Playwright (and Puppeteer).
+- [playwright.tech](https://playwright.tech) - A central home for tutorials, tooling, and showcases of the Playwright ecosystem.
 
 ## Contribute
 

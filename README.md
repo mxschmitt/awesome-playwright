@@ -31,12 +31,12 @@
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 - [playwright-video](https://github.com/qawolf/playwright-video) - Record your Chromium browser sessions.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
-- [playwright-ci](https://github.com/qawolf/playwright-ci) - Set up Playwright in your CI easily.
 - [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - Utility functions for Jest to perform expect based checks.
 - [eslint-plugin-jest-playwright](https://github.com/playwright-community/eslint-plugin-jest-playwright) - ESLint globals for the usage with Jest Playwright.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 - [playwright-session](https://github.com/domderen/playwright-session) - Visual Debugger for Playwright automation.
+- [Playwright CLI](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 
 ## Showcases
 

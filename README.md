@@ -65,5 +65,3 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-[playwright]: https://github.com/microsoft/playwright

@@ -2,7 +2,7 @@
 
 > A curated list of awesome tools, utils and projects using Playwright
 
-[Playwright][playwright] is a Node.js library to automate Firefox, WebKit and Chromium based browsers via a single API.
+[Playwright](https://github.com/microsoft/playwright) is a Node.js library to automate Firefox, WebKit and Chromium based browsers via a single API.
 
 ## Contents
 
@@ -27,7 +27,7 @@
 
 ## Language Support
 
-- [playwright][playwright] - Official Playwright in Node.js (JavaScript and TypeScript).
+- [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
 - [playwright-python](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
 - [playwright-sharp](https://github.com/microsoft/playwright-sharp) - Official Playwright port to .NET with C#.
 - [playwright-java](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.

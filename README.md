@@ -24,7 +24,7 @@
 - [pytest-playwright](https://github.com/mxschmitt/pytest-playwright/) - Pytest plugin for using Playwright pages with fixtures.
 - [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
 - [playwright-test](https://github.com/microsoft/playwright-test) - Official build a cross-browser end-to-end test suite with Playwright.
-- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core
+- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
 
 ## Language Support
 

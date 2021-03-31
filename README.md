@@ -18,7 +18,7 @@
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
 - [QA Wolf](https://github.com/qawolf/qawolf) - Create browser tests 10x faster.
-- [playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
+- [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
 - [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) - Browser build for Playwright to run on Amazon Linux 2.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 - [pytest-playwright](https://github.com/mxschmitt/pytest-playwright/) - Pytest plugin for using Playwright pages with fixtures.

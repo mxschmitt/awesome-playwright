@@ -33,6 +33,9 @@
 - [playwright-sharp](https://github.com/microsoft/playwright-sharp) - Official Playwright port to .NET with C#.
 - [playwright-java](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
 - [playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright port for Golang.
+- [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+- [playwright-cr](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
+- [playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## Utils
 

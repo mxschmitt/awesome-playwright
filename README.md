@@ -44,8 +44,9 @@
 - [playwright-video](https://github.com/qawolf/playwright-video) - Record your Chromium browser sessions.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 - [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
-- [expect-playwright](https://github.com/playwright-community/expect-playwright) - Utility functions for Jest to perform expect based checks.
-- [eslint-plugin-jest-playwright](https://github.com/playwright-community/eslint-plugin-jest-playwright) - ESLint globals for the usage with Jest Playwright.
+- [expect-playwright](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+- [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
+- [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 - [playwright-session](https://github.com/domderen/playwright-session) - Visual Debugger for Playwright automation.
 - [Playwright CLI](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.

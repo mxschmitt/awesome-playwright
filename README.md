@@ -53,7 +53,7 @@
 
 ## Showcases
 
-- [Demo.Playwright](https://github.com/MarcusFelling/Demo.Playwright) - A repo to demo various testing scenarios with Playwright, using the Playwright Test  test runner and scripts authored in TypeScript.
+- [Demo.Playwright](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
 - [playwright-jest-examples](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.

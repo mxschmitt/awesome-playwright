@@ -17,9 +17,7 @@
 
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
-- [QA Wolf](https://github.com/qawolf/qawolf) - Create browser tests 10x faster.
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
-- [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) - Browser build for Playwright to run on Amazon Linux 2.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 - [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
@@ -38,19 +36,17 @@
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 - [playwright-cr](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
 - [playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+- [playwright-perl](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## Utils
 
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
-- [playwright-video](https://github.com/qawolf/playwright-video) - Record your Chromium browser sessions.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 - [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
-- [playwright-session](https://github.com/domderen/playwright-session) - Visual Debugger for Playwright automation.
-- [Playwright CLI](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 
 ## Showcases
 

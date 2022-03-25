@@ -26,6 +26,7 @@
 - [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
 - [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
+- [artillery-engine-playwright](https://github.com/artilleryio/artillery-engine-playwright) - Load testing with Playwright.
 
 ## Language Support
 

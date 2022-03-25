@@ -30,7 +30,7 @@
 
 - [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
 - [playwright-python](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
-- [playwright-sharp](https://github.com/microsoft/playwright-sharp) - Official Playwright port to .NET with C#.
+- [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
 - [playwright-java](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
 - [playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright port for Golang.
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.

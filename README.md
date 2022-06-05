@@ -47,6 +47,7 @@
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+- [playwright-dompath](https://github.com/alexferrari88/playwright-DOMPath) - Library to extract CSS/XPath selectors from elements selected in Playwright
 
 ## Showcases
 

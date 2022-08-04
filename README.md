@@ -60,6 +60,7 @@
 - [Blockstack](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 - [Heroku Playwright Example](https://github.com/mxschmitt/heroku-playwright-example) - Example using Playwright on Heroku.
+- [Todo App with Playwright](https://github.com/burakkantarci/playwright-todo-app) - Comprehensive Todo app with APIs, E2E tests with GitHub Actions enabled.
 
 ## Guides
 

@@ -9,6 +9,7 @@
 - [Integrations](#integrations)
 - [Language Support](#language-support)
 - [Utils](#utils)
+- [Reporters](#reporters)
 - [Showcases](#showcases)
 - [Guides](#guides)
 - [Contribute](#contribute)
@@ -50,6 +51,11 @@
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 - [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - Playwright plugin for IntelliJ.
 
+## Reporters
+
+- [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
+- [monocart-reporter](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
+- [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework
 ## Showcases
 
 - [Demo.Playwright](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.

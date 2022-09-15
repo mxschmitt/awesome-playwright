@@ -42,6 +42,7 @@
 ## Utils
 
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- [Try Playwright Test](https://stackblitz.com/edit/jfgreffier-try-playwright-test-eac1pg) - Playwright Test in an online IDE.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 - [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.

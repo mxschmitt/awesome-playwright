@@ -33,7 +33,7 @@
 - [playwright-python](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
 - [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
 - [playwright-java](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
-- [playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright port for Golang.
+- [playwright-go](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 - [playwright-cr](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
 - [playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.

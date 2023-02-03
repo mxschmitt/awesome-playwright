@@ -9,6 +9,7 @@
 - [Integrations](#integrations)
 - [Language Support](#language-support)
 - [Utils](#utils)
+- [Reporters](#reporters)
 - [Showcases](#showcases)
 - [Guides](#guides)
 - [Contribute](#contribute)
@@ -32,7 +33,7 @@
 - [playwright-python](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
 - [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
 - [playwright-java](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
-- [playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright port for Golang.
+- [playwright-go](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 - [playwright-cr](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
 - [playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
@@ -48,6 +49,17 @@
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
+- [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
+- [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - Playwright plugin for IntelliJ.
+- [playwright-elements](https://www.npmjs.com/package/playwright-elements) - Playwright test extension for more powerful page object implementation.
+
+
+## Reporters
+
+- [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
+- [monocart-reporter](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
+- [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
+- [playwright-xray](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray
 
 ## Showcases
 
@@ -59,6 +71,7 @@
 - [Blockstack](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 - [Heroku Playwright Example](https://github.com/mxschmitt/heroku-playwright-example) - Example using Playwright on Heroku.
+- [Todo App with Playwright](https://github.com/burakkantarci/playwright-todo-app) - Comprehensive Todo app with APIs, E2E tests with GitHub Actions enabled.
 
 ## Guides
 

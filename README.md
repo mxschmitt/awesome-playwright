@@ -58,6 +58,7 @@
 - [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
 - [monocart-reporter](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
 - [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
+- [playwright-xray](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray
 
 ## Showcases
 

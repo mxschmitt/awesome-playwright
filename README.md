@@ -77,6 +77,7 @@
 
 - [theheadless.dev](https://theheadless.dev) - Practical guides and runnable examples on Playwright (and Puppeteer).
 - [playwright.tech](https://playwright.tech) - A central home for tutorials, tooling, and showcases of the Playwright ecosystem.
+- [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
 
 ## Contribute
 

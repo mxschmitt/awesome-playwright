@@ -43,6 +43,7 @@
 
 ## Utils
 
+- [Ask Playwright](https://ray.run/ask) – accurate answers to Playwright questions provided by LLM trained on the latest Playwright documentation.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.

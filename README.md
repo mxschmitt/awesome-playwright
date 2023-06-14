@@ -28,6 +28,7 @@
 - [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
 - [artillery-engine-playwright](https://github.com/artilleryio/artillery-engine-playwright) - Load testing with Playwright.
+- [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 
 ## Language Support
 

@@ -59,6 +59,8 @@
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - A plugin that helps you optimize the speed and efficiency of web applications by measuring and analyzing the performance of ANY tested flow using Playwright.
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
+- [playwright-ui5](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
+- [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 
 
 ## Reporters

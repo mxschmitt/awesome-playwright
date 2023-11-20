@@ -70,6 +70,8 @@
 - [monocart-reporter](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
 - [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
 - [playwright-xray](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
+- [testomatio-reporter](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear /AzureDevops task management, its analytics and many more modern integrations.
+- [github-pipe](https://github.com/testomatio/reporter/blob/master/docs/pipes/github.md) - Simple and informative reporter for tests executed with GithubActions.
 - [currents-dev](https://currents.dev/) - A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests.
 
 ## Showcases

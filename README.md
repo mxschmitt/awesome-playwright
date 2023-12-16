@@ -18,16 +18,17 @@
 
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
-- [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
+- [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
 - [playwright-chrome-recorder](https://github.com/AndrewUsher/playwright-chrome-recorder) - Export Playwright tests from Google Chrome DevTools' recordings programmatically.
 - [Playwright Chrome Recorder Extension](https://github.com/AndrewUsher/playwright-recorder-extension) - Export DevTools Recordings as Playwright Tests directly from the DevTools Recorder Panel.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 - [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
-- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
+- [@axe-core/playwright](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
+- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Inofficial integration of Axe with Playwright.
 - [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
-- [artillery-engine-playwright](https://github.com/artilleryio/artillery-engine-playwright) - Load testing with Playwright.
+- [artillery-engine-playwright](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 
 ## Language Support
@@ -46,9 +47,8 @@
 
 - [Ask Playwright](https://ray.run/ask) - Accurate answers to Playwright questions provided by LLM trained on the latest Playwright documentation.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
-- [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
-- [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
+- [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
@@ -86,8 +86,7 @@
 
 ## Guides
 
-- [theheadless.dev](https://theheadless.dev) - Practical guides and runnable examples on Playwright (and Puppeteer).
-- [playwright.tech](https://playwright.tech) - A central home for tutorials, tooling, and showcases of the Playwright ecosystem.
+- [theheadless.dev](https://www.checklyhq.com/learn/headless/) - Practical guides and runnable examples on Playwright (and Puppeteer).
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
 
 ## Contribute

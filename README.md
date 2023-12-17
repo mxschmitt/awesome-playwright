@@ -30,7 +30,7 @@
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
 - [artillery-engine-playwright](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
-- [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/). Get started with the [official tutorial](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/)!
+- [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
 
 ## Language Support
 
@@ -91,6 +91,7 @@
 
 - [theheadless.dev](https://www.checklyhq.com/learn/headless/) - Practical guides and runnable examples on Playwright (and Puppeteer).
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
+- [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn to write high-quality, business-focused automated acceptance tests using Playwright and Serenity/JS.
 
 ## Contribute
 

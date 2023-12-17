@@ -46,7 +46,7 @@
 
 ## Utils
 
-- [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - auto-generated, run & maintained with AI-assisted test case discovery.
+- [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [Ask Playwright](https://ray.run/ask) - Accurate answers to Playwright questions provided by LLM trained on the latest Playwright documentation.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.

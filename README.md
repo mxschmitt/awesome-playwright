@@ -91,7 +91,7 @@
 
 - [theheadless.dev](https://www.checklyhq.com/learn/headless/) - Practical guides and runnable examples on Playwright (and Puppeteer).
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
-- [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn to write high-quality, business-focused automated acceptance tests using Playwright and Serenity/JS.
+- [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.
 
 ## Contribute
 

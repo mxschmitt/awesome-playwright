@@ -91,6 +91,7 @@
 - [Todo App with Playwright](https://github.com/burakkantarci/playwright-todo-app) - Comprehensive Todo app with APIs, E2E tests with GitHub Actions enabled.
 - [playwright-coverage](https://github.com/cenfun/playwright-coverage) - Example shows how to generate native V8 coverage reports in Playwright.
 - [nextjs-with-playwright](https://github.com/cenfun/nextjs-with-playwright) - Example shows how to configure Playwright to work with Next.js, and generate both client side and server side coverage reports.
+- [Playwright Report Integration Examples](https://github.com/cenfun/monocart-reporter-examples/tree/main/integrations) - For example, Testrail, Jira, Zephyr, Xray, Slack, Discord, Teams and so on.
 
 ## Guides
 

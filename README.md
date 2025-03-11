@@ -71,6 +71,7 @@
 - [POMWright](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
+- [playwright-stealth](https://github.com/AtuboDad/playwright_stealth) - Python package that extends Playwright by overriding specific configurations to avoid bot detection.
 
 ## Reporters
 
@@ -104,6 +105,7 @@
 - [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright. 
 - [Testing 3D applications with Playwright on GPU](https://blog.promaton.com/testing-3d-applications-with-playwright-on-gpu-1e9cfc8b54a9) - Recipe to enable hardware acceleration for Playwright tests on CI.
+- [Avoid Bot Detection With Playwright Stealth](https://brightdata.com/blog/how-tos/avoid-bot-detection-with-playwright-stealth) - How to use Playwright Stealth in both Python and JavaScript to avoid getting blocked.
 
 ## Contribute
 

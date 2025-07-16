@@ -53,6 +53,7 @@
 
 - [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [Ask Playwright](https://ray.run/ask) - Accurate answers to Playwright questions provided by LLM trained on the latest Playwright documentation.
+- [Buglesstack](https://buglesstack.com/) - Debugging platform for browser automation tools.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.

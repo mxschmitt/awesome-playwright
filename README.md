@@ -36,6 +36,7 @@
 - [@guidepup/playwright](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 - [@appetize/playwright](https://docs.appetize.io/testing) - Mobile tests for web or native apps on [Appetize](https://www.appetize.io)'s virtual devices using Playwright Test Runner.
 - [appwright](https://www.npmjs.com/package/appwright) - Mobile tests using Appium with Playwright Test Runner.
+- [playwright-service-generator](https://github.com/jtgober/playwright-service-generator) - Generates Playwright API services and fixtures from Swagger/OpenAPI specifications.
 
 ## Language Support
 

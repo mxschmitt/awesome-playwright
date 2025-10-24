@@ -73,6 +73,7 @@
 - [POMWright](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
+- [@global-cache/playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
 
 ## Reporters
 

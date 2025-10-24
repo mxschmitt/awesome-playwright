@@ -18,7 +18,7 @@
 
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
-- [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
+- [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
 - [playwright-chrome-recorder](https://github.com/AndrewUsher/playwright-chrome-recorder) - Export Playwright tests from Google Chrome DevTools' recordings programmatically.
 - [Playwright Angular Schematic](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 - [Playwright Chrome Recorder Extension](https://github.com/AndrewUsher/playwright-recorder-extension) - Export DevTools Recordings as Playwright Tests directly from the DevTools Recorder Panel.
@@ -70,9 +70,10 @@
 - [playwright-ui5](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 - [ZeroStep](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
-- [POMWright](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
+- [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
+- [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
 
 ## Reporters
 

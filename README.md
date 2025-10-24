@@ -18,7 +18,7 @@
 
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
-- [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms (AWS Lambda).
+- [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
 - [playwright-chrome-recorder](https://github.com/AndrewUsher/playwright-chrome-recorder) - Export Playwright tests from Google Chrome DevTools' recordings programmatically.
 - [Playwright Angular Schematic](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 - [Playwright Chrome Recorder Extension](https://github.com/AndrewUsher/playwright-recorder-extension) - Export DevTools Recordings as Playwright Tests directly from the DevTools Recorder Panel.

@@ -83,7 +83,7 @@
 
 ## Showcases
 
-- [playwright-examples](https://github.com/microosft/playwright-examples) - Various testing scenarios with Playwright.
+- [playwright-examples](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used test TypeScript.js across browsers.
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.

@@ -88,6 +88,7 @@
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used test TypeScript.js across browsers.
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 - [Blockstack](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+- [PromoBot](https://github.com/Shashank0701-byte/promobot) - Marketing automation agent that uses Playwright to bypass API restrictions on Reddit and X.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## Guides

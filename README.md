@@ -65,7 +65,8 @@
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 - [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
-
+- [oAuth mock server](https://github.com/atagon-GmbH/oAuth-mock) - An OAuth mock server that requires zero setup to test OAuth flows with Playwright.
+- 
 ## Reporters
 
 - [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.

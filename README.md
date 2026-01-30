@@ -80,6 +80,7 @@
 - [TestCollab](https://github.com/TCSoftInc/playwright-integration) - Run Playwright scripts and populate results back into [TestCollab](https://testcollab.com) test management tool.
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [playwright-ctrf-json-reporter](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
+- [Checkly](https://www.checklyhq.com/docs/detect/testing/playwright-reporter/) - Run, monitor, and debug Playwright tests globally with AI-powered failure analysis, and comprehensive test run reports.
 
 ## Showcases
 

@@ -89,6 +89,7 @@
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 - [Blockstack](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+- [Berlinale Ticket Buyer](https://github.com/Rswcf/berlinale-ticket-buyer) - Automated ticket purchasing for the Berlin Film Festival using Playwright's persistent browser context with stealth mode for Eventim.de automation.
 
 ## Guides
 

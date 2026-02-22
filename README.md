@@ -83,6 +83,7 @@
 
 ## Showcases
 
+- [SnapAPI](https://snapapi.pics) - Production REST API for screenshots, PDFs, video recording, and web data extraction — built on Playwright. Powers cookie banner blocking, device emulation, and full-page captures at scale.
 - [playwright-examples](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used test TypeScript.js across browsers.

@@ -65,6 +65,7 @@
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 - [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
+- [Playwright Autopilot](https://github.com/kaizen-yutani/playwright-autopilot) - AI-powered test debugger that captures DOM snapshots, network requests, and console output for every action, then autonomously diagnoses and fixes failures. Claude Code plugin using MCP.
 
 ## Reporters
 

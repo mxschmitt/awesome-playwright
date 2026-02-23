@@ -31,6 +31,7 @@
 - [@guidepup/Playwright](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 - [@appetize/Playwright](https://docs.appetize.io/testing) - Mobile tests for web or native apps on [Appetize](https://www.appetize.io)'s virtual devices using Playwright Test Runner.
 - [appwright](https://www.npmjs.com/package/appwright) - Mobile tests using Appium with Playwright Test Runner.
+- [playwright-graphql](https://www.npmjs.com/package/playwright-graphql?activeTab=readme) - Generates a type‑safe GraphQL client and fixtures for Playwright API tests, with a CLI for schema/operation generation and optional coverage reporting.
 - [Happo](https://docs.happo.io/docs/playwright) - Catch unexpected visual and accessibility changes and UI bugs.
 
 ## Language Support

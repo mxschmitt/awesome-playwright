@@ -69,6 +69,7 @@
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 - [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
 - [Heroshot](https://github.com/omachala/heroshot) - Documentation screenshot automation. Visual picker to define screenshots, one command to regenerate them all.
+- [Playwright Manual-to-Test Generator](https://github.com/rmgoede/playwright-manual-to-test-generator) – Deterministic conversion of manual test steps into a single runnable Playwright TypeScript test.
 
 ## Reporters
 

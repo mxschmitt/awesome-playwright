@@ -85,6 +85,7 @@
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [playwright-ctrf-json-reporter](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
 - [Checkly](https://www.checklyhq.com/docs/detect/testing/playwright-reporter/) - Uploads Playwright test results, screenshots, videos and traces to the Checkly platform for monitoring and debugging across global regions.
+- [playwright-smart-reporter](https://www.npmjs.com/package/playwright-smart-reporter) - A feature-rich HTML reporter with stability grades, trend analytics, retry analysis, performance tracking, and optional AI-powered failure analysis.
 
 ## Showcases
 

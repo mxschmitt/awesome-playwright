@@ -106,3 +106,6 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/mxschmitt/awesome-playwright/blob/master/CONTRIBUTING.md) first.
+
+
+- [Anchor Browser](https://anchorbrowser.io) - Browser infrastructure for AI agents

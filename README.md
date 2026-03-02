@@ -47,7 +47,7 @@
 - [playwright-perl](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## Utils
-
+- [playwright-skill](https://github.com/testdino-hq/playwright-skill) - AI Agent Skills: 70+ production-tested Playwright skill for coding agents. Covers core best practices to write better Playwright code, POM patterns, CI/CD pipelines, agent-friendly CLI, and migration paths from Cypress and Selenium. TypeScript and JavaScript.
 - [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshot and ref targeting. Built on Playwright. No vision model, no CSS selectors — snapshot the page, AI picks a ref, library hits the exact element.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.

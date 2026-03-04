@@ -33,6 +33,7 @@
 - [appwright](https://www.npmjs.com/package/appwright) - Mobile tests using Appium with Playwright Test Runner.
 - [playwright-graphql](https://www.npmjs.com/package/playwright-graphql?activeTab=readme) - Generates a type‑safe GraphQL client and fixtures for Playwright API tests, with a CLI for schema/operation generation and optional coverage reporting.
 - [Happo](https://docs.happo.io/docs/playwright) - Catch unexpected visual and accessibility changes and UI bugs.
+- [FixSense](https://fixsense.dev) - AI-powered root cause analysis and auto-fix for Playwright CI failures. Installs as a GitHub App, analyzes failing tests, and opens fix PRs automatically.
 
 ## Language Support
 

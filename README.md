@@ -49,6 +49,7 @@
 ## Utils
 
 - [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
+- [design-auditor](https://github.com/PashaSchool/design-auditor) - A CLI tool built on Playwright that audits websites for design system consistency, checking typography, color palettes, spacing, and component standards.
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshot and ref targeting. Built on Playwright. No vision model, no CSS selectors — snapshot the page, AI picks a ref, library hits the exact element.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.

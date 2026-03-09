@@ -33,6 +33,7 @@
 - [appwright](https://www.npmjs.com/package/appwright) - Mobile tests using Appium with Playwright Test Runner.
 - [playwright-graphql](https://www.npmjs.com/package/playwright-graphql?activeTab=readme) - Generates a type‑safe GraphQL client and fixtures for Playwright API tests, with a CLI for schema/operation generation and optional coverage reporting.
 - [Happo](https://docs.happo.io/docs/playwright) - Catch unexpected visual and accessibility changes and UI bugs.
+- [supaguard](https://supaguard.app/) - AI-native synthetic monitoring that uses agentic reasoning to automatically repair broken locators and generate production-ready scripts from natural language.
 
 ## Language Support
 
@@ -85,6 +86,7 @@
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [playwright-ctrf-json-reporter](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
 - [Checkly](https://www.checklyhq.com/docs/detect/testing/playwright-reporter/) - Uploads Playwright test results, screenshots, videos and traces to the Checkly platform for monitoring and debugging across global regions.
+- [supaguard](https://supaguard.app/) - AI-native synthetic monitoring that uses agentic reasoning to automatically repair broken locators and generate production-ready scripts from natural language.
 
 ## Showcases
 

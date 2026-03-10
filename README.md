@@ -50,6 +50,7 @@
 
 - [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshot and ref targeting. Built on Playwright. No vision model, no CSS selectors — snapshot the page, AI picks a ref, library hits the exact element.
+- [Lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google).
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.

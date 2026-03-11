@@ -33,6 +33,7 @@
 - [appwright](https://www.npmjs.com/package/appwright) - Mobile tests using Appium with Playwright Test Runner.
 - [playwright-graphql](https://www.npmjs.com/package/playwright-graphql?activeTab=readme) - Generates a type‑safe GraphQL client and fixtures for Playwright API tests, with a CLI for schema/operation generation and optional coverage reporting.
 - [Happo](https://docs.happo.io/docs/playwright) - Catch unexpected visual and accessibility changes and UI bugs.
+- [Conduit](https://github.com/bkauto3/Conduit) - Headless browser built on Patchright (stealth Playwright fork) with SHA-256 hash chain + Ed25519 audit trails. MCP server for AI agents. Self-verifiable proof bundles.
 
 ## Language Support
 

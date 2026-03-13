@@ -94,6 +94,7 @@
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 - [Blockstack](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+- [Visura API](https://github.com/zornade/visura-api) - REST API service automating Italian cadastral property lookups (visure catastali) via Playwright headless browser with SPID authentication.
 
 ## Guides
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.

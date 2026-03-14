@@ -49,6 +49,7 @@
 ## Utils
 
 - [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
+- [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Playwright TypeScript tests from natural language requirements using LangGraph workflows, ChromaDB pattern learning, and multi-provider LLM support.
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshot and ref targeting. Built on Playwright. No vision model, no CSS selectors — snapshot the page, AI picks a ref, library hits the exact element.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.

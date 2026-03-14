@@ -66,6 +66,7 @@
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 - [SessionKeeper](https://github.com/vesper-astrena/sessionkeeper) - Browser session manager that persists authenticated sessions across automation runs. Handles CAPTCHA and login walls by opening a visible browser for human auth only when needed, then returning to headless mode.
+- [SnapForge](https://github.com/vesper-astrena/snapforge) - Self-hosted screenshot & PDF API. Single Python file, powered by Playwright. Supports device emulation, element screenshots, dark mode, HTML-to-image, concurrent browser pool, and API key auth.
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 - [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.

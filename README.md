@@ -16,6 +16,7 @@
 
 ## Integrations
 
+- [Polarity](https://www.polarity.so) - Generates all your playwright code automatically as E2E tests run
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
 - [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
 - [Playwright Angular Schematic](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.

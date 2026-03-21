@@ -56,6 +56,7 @@
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 - [@bgotink/playwright-coverage](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
 - [playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill to make agents experts at writing, debugging and maintaining Playwright tests.
+- [playwright-page-object](https://www.npmjs.com/package/playwright-page-object) - Decorator-driven selector composition for Playwright POM. Compose typed selectors in plain classes and custom controls with incremental Page Object Model adoption.
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 - [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creatation of reusable components with ability to add child elements, methods and call them in chain. Reduce amount of your code in page object, or even use elements without page object.

@@ -32,6 +32,7 @@
 - [playwright-graphql](https://www.npmjs.com/package/playwright-graphql?activeTab=readme) - Generates a type‑safe GraphQL client and fixtures for Playwright API tests, with a CLI for schema/operation generation and optional coverage reporting.
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 - [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
+- [wopee.pw](https://www.npmjs.com/package/@wopee-io/wopee.pw) - Visual regression testing with autonomous test maintenance by [Wopee.io](https://docs.wopee.io/playwright-visual-testing/).
 
 ## Language Support
 

@@ -23,7 +23,6 @@
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 - [@axe-core/Playwright](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
 - [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Inofficial integration of Axe with Playwright.
-- [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
 - [artillery-engine-playwright](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
@@ -42,13 +41,12 @@
 - [playwright-java](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
 - [playwright-go](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
-- [playwright-cr](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
 - [playwright-rust](https://github.com/padamson/playwright-rust) - Playwright port for Rust.
 - [playwright-perl](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## Utils
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill) - AI Agent Skills: 70+ production-tested Playwright skill for coding agents. Covers core best practices to write better Playwright code, POM patterns, CI/CD pipelines, agent-friendly CLI, and migration paths from Cypress and Selenium. TypeScript and JavaScript.
-- [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
+- [octomind.dev](https://octomind.dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshot and ref targeting. Built on Playwright. No vision model, no CSS selectors — snapshot the page, AI picks a ref, library hits the exact element.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
@@ -81,7 +79,6 @@
 - [qase](https://github.com/qase-tms/qase-javascript/tree/main/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io).
 - [echoed](https://github.com/mrasu/echoed) - Makes tests observable by visualizing OpenTelemetry data in HTML.
 - [playwright-slack-report](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favorite Slack channel(s).
-- [TestCollab](https://github.com/TCSoftInc/playwright-integration) - Run Playwright scripts and populate results back into [TestCollab](https://testcollab.com) test management tool.
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [playwright-ctrf-json-reporter](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
 - [Checkly](https://www.checklyhq.com/docs/detect/testing/playwright-reporter/) - Uploads Playwright test results, screenshots, videos and traces to the Checkly platform for monitoring and debugging across global regions.
@@ -93,7 +90,6 @@
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used test TypeScript.js across browsers.
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-- [Blockstack](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## Guides

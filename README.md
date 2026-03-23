@@ -46,6 +46,7 @@
 
 ## Utils
 
+- [aria-eyes](https://github.com/TonciZ/aria-eyes) - Verify that color words in aria-labels and alt text match actual CSS colors. Automated WCAG 1.4.1 and 1.1.1 testing.
 - [@bgotink/playwright-coverage](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshots and ref targeting, built on Playwright.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.

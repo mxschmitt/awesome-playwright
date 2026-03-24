@@ -54,6 +54,7 @@
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 - [octomind.dev](https://octomind.dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill to make agents experts at writing, debugging and maintaining Playwright tests.
+- [patchright-cli](https://github.com/AhaiMk01/patchright-cli) - Anti-detect browser automation CLI using Patchright (undetected Playwright fork). Same command interface as playwright-cli but bypasses Akamai, Cloudflare, and other anti-bot systems.
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 - [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creation of reusable, chainable component elements to reduce page object boilerplate.
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.

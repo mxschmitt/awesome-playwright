@@ -44,6 +44,11 @@
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 - [playwright-rust](https://github.com/padamson/playwright-rust) - Playwright port for Rust.
 
+## MCP Servers
+
+- [pilot-mcp](https://github.com/TacosyHorchata/Pilot) - Fast MCP browser automation server. In-process Playwright, 58 tools (profiles: 9/28/58), cookie import from Chrome/Arc/Brave, handoff/resume for CAPTCHAs, iframe support, snapshot diffing. 41% faster than @playwright/mcp.
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Playwright MCP server by Microsoft.
+
 ## Utils
 
 - [@bgotink/playwright-coverage](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.

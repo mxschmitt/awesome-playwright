@@ -22,6 +22,7 @@
 - [@axe-core/Playwright](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
 - [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Unofficial integration of Axe with Playwright.
 - [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
+- [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium with source-level C++ fingerprint patches that passes Cloudflare, reCAPTCHA, and other bot detection. Drop-in Playwright replacement for Python and JavaScript.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
 - [@guidepup/Playwright](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.

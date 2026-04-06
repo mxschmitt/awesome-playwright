@@ -4,6 +4,7 @@
 
 [Playwright](https://github.com/microsoft/playwright) is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .NET and Java.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Playwright testing workflow orchestration, automated browser test management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Integrations](#integrations)

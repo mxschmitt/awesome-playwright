@@ -52,6 +52,7 @@
 - [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
 - [Heroshot](https://github.com/omachala/heroshot) - Documentation screenshot automation. Visual picker to define screenshots, one command to regenerate them all.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+- [nextcov](https://github.com/stevez/nextcov) - V8 code coverage collection and merging for Next.js apps tested with Playwright, unifying unit, component, and integration coverage into a single report.
 - [octomind.dev](https://octomind.dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill to make agents experts at writing, debugging and maintaining Playwright tests.
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
@@ -60,6 +61,7 @@
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - Plugin for measuring and analyzing performance of tested flows using Playwright.
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
+- [playwright-repl](https://github.com/stevez/playwright-repl) - Keyword-driven REPL for Playwright — CLI, VS Code extension, Chrome extension (Dramaturg), and MCP server. Type `click e5` instead of `page.locator(...).click()`.
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.

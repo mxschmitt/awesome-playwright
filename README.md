@@ -68,6 +68,7 @@
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- [camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser server for AI agents that bypasses bot detection, usable as a Playwright-compatible automation backend.
 
 ## Reporters
 

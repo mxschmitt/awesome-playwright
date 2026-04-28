@@ -67,6 +67,7 @@
 - [playwright-ui5](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
+- [@taprun/from-playwright](https://www.npmjs.com/package/@taprun/from-playwright) - Convert Playwright `.spec.ts` / `.test.ts` test scripts into deterministic `.tap.json` plans that replay in MCP hosts (Claude Code, Cursor) at zero LLM tokens.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 

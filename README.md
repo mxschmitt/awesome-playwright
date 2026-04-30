@@ -69,6 +69,7 @@
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- [webtest-orch](https://github.com/CreatmanCEO/webtest-orch) - Claude Code skill for image-budget-safe end-to-end testing: LLM-driven exploration generates *.spec.ts on first run, deterministic replay afterward, with axe-core integration, bug fingerprinting, and run-diff (new / regression / persisting / fixed).
 
 ## Reporters
 

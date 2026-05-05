@@ -56,6 +56,7 @@
 - [octomind.dev](https://octomind.dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill to make agents experts at writing, debugging and maintaining Playwright tests.
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
+- [playwright-cli-sessions](https://github.com/gabrielantonyxaviour/playwright-cli-sessions) - Stateless shell CLI on top of Playwright with one optional persistent Chrome that all commands attach to via CDP. Saved logins as parallel-safe JSON, agent-aware failure semantics (next-steps blocks on every error, blind-retry-loop detector, dedicated browser-control-lost error class).
 - [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creation of reusable, chainable component elements to reduce page object boilerplate.
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.

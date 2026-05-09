@@ -69,6 +69,7 @@
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- - [qa-skills](https://github.com/petrkindlmann/qa-skills) – 42 QA and test-automation skills for AI coding agents. Playwright-first, includes playwright-automation, visual-testing, performance-testing, and AI-augmented test generation skills. Works with Claude Code, Codex, Cursor, and any Agent Skills Standard runtime.
 
 ## Reporters
 

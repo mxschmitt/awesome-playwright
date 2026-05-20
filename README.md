@@ -94,6 +94,7 @@
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used to test TypeScript.js across browsers.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+- [agent-qa](https://github.com/vostride/agent-qa) - Agentic QA harness. Playwright as the kernel.
 
 ## Guides
 

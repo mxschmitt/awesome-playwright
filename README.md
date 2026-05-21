@@ -92,6 +92,7 @@
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 - [playwright-examples](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used to test TypeScript.js across browsers.
+- [SnapAPI](https://snap.michaelcli.com) - REST API for website screenshots, metadata extraction, and PDF generation, powered by Playwright. [Source](https://github.com/myastroapp/snapapi-client).
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 

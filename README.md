@@ -32,6 +32,7 @@
 - [playwright-graphql](https://www.npmjs.com/package/playwright-graphql?activeTab=readme) - Generates a type‑safe GraphQL client and fixtures for Playwright API tests, with a CLI for schema/operation generation and optional coverage reporting.
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 - [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
+- [@vijaypjavvadi/bdd2pw](https://www.npmjs.com/package/@vijaypjavvadi/bdd2pw) - Scaffold runnable Playwright TypeScript tests from Gherkin .feature files. Auto-detects existing Page Objects, scans live pages via Microsoft Playwright MCP, emits POMs and specs ready for execution. CLI + HTTP service.
 
 ## Language Support
 
@@ -69,6 +70,8 @@
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- [@vijaypjavvadi/pw-emit](https://www.npmjs.com/package/@vijaypjavvadi/pw-emit) - Playwright TypeScript emitter library that renders Page Objects, spec files, and project scaffolds from a generic intermediate representation. Powers sel2pw and bdd2pw.
+- [@vijaypjavvadi/sel2pw](https://www.npmjs.com/package/@vijaypjavvadi/sel2pw) - Convert Java + Selenium + TestNG test suites to Playwright TypeScript via rule-based AST traversal. Supports Selenium Java, C# NUnit, Cucumber BDD, SpecFlow with optional LLM fallback (Anthropic / OpenAI / Gemini).
 
 ## Reporters
 

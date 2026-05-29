@@ -41,6 +41,7 @@
 - [playwright-python](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
 - [playwright-go](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 - [playwright-perl](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
+- [playwright-php](https://github.com/playwright-php/playwright) - Playwright port for PHP.
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 - [playwright-rust](https://github.com/padamson/playwright-rust) - Playwright port for Rust.
 

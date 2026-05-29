@@ -98,6 +98,7 @@
 ## Guides
 
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.
+- [Playwright Best Practices](https://github.com/ZeeaanNawazHarall/playwright-best-practices) - Playwright TypeScript reference covering architecture, auth, CI/CD, and 13 anti-patterns, with three runnable example frameworks.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.

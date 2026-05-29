@@ -5,11 +5,13 @@
 Accept if it's clearly one of:
 - Playwright-first tool/library/integration (not "works with everything")
 - Widely useful to Playwright users (testing, tooling, ecosystem)
+- Scraping / non-testing browser automation tool built **on** Playwright (goes in the Scraping & Automation section, not Utils)
 - Guide/resource that is Playwright-specific and high quality
 - Showcase that's notable and broadly credible
 
 Reject / be skeptical if it's:
-- Generic automation/scraping infra, "AI agent platforms," or cross-framework directories
+- A Playwright *alternative* / competing automation engine (must be built on Playwright, not a replacement for it)
+- "AI agent platforms" or cross-framework directories with no Playwright-first angle
 - A niche script for a single site or personal automation project
 - Mostly marketing for a SaaS product without a clear Playwright integration
 
@@ -44,12 +46,13 @@ Descriptions should be short and factual.
 
 ## 5) Ethics / ToS / "anti-bot" red flags
 
-Auto-reject or heavily scrutinize anything centered on:
-- CAPTCHA solving/bypassing, stealth mode, anti-detection, ticket scalping
-- Automating government portals or services where ToS compliance is doubtful
-- Anything that reads like "bypass restrictions"
+Scraping, crawling, anti-detection, and stealth automation are **in scope** as long as the tool is built on Playwright — these belong in the Scraping & Automation section. CAPTCHA-bypass / anti-detection tooling (e.g. stealth-patched browsers) is acceptable when it's open source and Playwright-based.
 
-If it's even borderline, keep it out of the list.
+Still reject or heavily scrutinize:
+- Tools centered on ticket scalping or automating government portals/services where ToS compliance is doubtful
+- Closed-source SaaS where the value is a paid hosted service (proxies, paid captcha solving, etc.) rather than a Playwright tool — judge these on the closed-SaaS rule (#6), not the scraping angle
+
+When ToS/ethics are genuinely doubtful (not just "it scrapes"), keep it out.
 
 ## 6) Licensing & accessibility
 

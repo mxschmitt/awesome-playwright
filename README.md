@@ -9,6 +9,7 @@
 - [Integrations](#integrations)
 - [Language Support](#language-support)
 - [Utils](#utils)
+- [Scraping & Automation](#scraping--automation)
 - [Reporters](#reporters)
 - [Showcases](#showcases)
 - [Guides](#guides)
@@ -71,6 +72,11 @@
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+
+## Scraping & Automation
+
+- [Human Browser](https://humanbrowser.cloud) - Playwright drop-in that runs scripts on managed cloud browsers with residential IPs and device fingerprints, with an A2A + MCP endpoint.
+- [invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Drop-in Playwright replacement using a patched Firefox with source-level fingerprint and anti-detection patches.
 
 ## Reporters
 

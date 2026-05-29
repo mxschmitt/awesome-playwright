@@ -10,7 +10,7 @@ You are helping an awesome-list maintainer review open pull requests. Most PRs o
 ## Phase 1: Research & Report
 
 ### Step 1: Gather context
-1. Read `.claude/REVIEW_REQUIREMENTS.md` for the full 10-point review criteria.
+1. Read `references/review-criteria.md` (in this skill's base directory) for the full 10-point review criteria.
 2. Read `README.md` to understand existing entries, categories, and formatting conventions.
 3. Fetch all open PRs:
    ```bash
@@ -47,21 +47,32 @@ Evaluate each PR against the criteria from `references/review-criteria.md`. Key 
 - **Duplication**: Is something similar already listed? Only add if clearly better/different.
 - **Formatting**: Alphabetical order, one bullet per entry, correct naming, no tracking links.
 
-### Step 4: Generate review document
-Produce a document with:
+### Step 4: Generate the HTML review report
+Write a single self-contained HTML file to `pr-review-report.html` in the repo root (no external CSS/JS/CDN — inline everything so it opens offline). This is the primary deliverable the user reviews.
 
-1. **Per-PR details** including:
-   - PR number, title, author
-   - What it adds (one sentence)
-   - Project stats: stars, license, last activity
-   - Verdict: **MERGE**, **CLOSE**, or **REQUEST CHANGES**
-   - Reason (one sentence)
-   - For CLOSE: a draft closing comment that is friendly but not verbose
+The report MUST contain:
 
-2. **Summary table** at the end:
-   | PR | Title | Recommendation | Reason |
+1. **Header**: title, generation date, and counts (total PRs, # merge, # close, # request changes).
 
-3. Present to the user and explicitly ask for approval or overrides before proceeding to Phase 2.
+2. **A summary table** near the top with one row per PR. Columns:
+   `PR # | Title | Author | Target section | Stars | License | Last activity | Recommended action | Reason`
+   - Make the PR # a clickable link to the PR URL.
+   - Color-code the action cell so it's scannable: **MERGE** = green, **CLOSE** = red, **REQUEST CHANGES** = amber. Use an inline `style` or a CSS class with a colored badge.
+
+3. **Per-PR detail cards** (one per PR, below the table), each showing:
+   - PR number + title (linked), author
+   - What it adds (one factual sentence) and which section/line the diff targets
+   - Project stats: stars, license, created date, last activity, npm info if relevant
+   - Any red flags (scope, ethics/ToS, duplication, licensing, formatting)
+   - The recommended action as a colored badge, plus a one-sentence reason
+   - For **CLOSE**: include the draft friendly closing comment (in a `<blockquote>` or `<pre>`) so the user can review the exact wording before it's posted.
+
+Keep the verdicts to **MERGE**, **CLOSE**, or **REQUEST CHANGES**. Sort the cards by recommended action (merges first, then request-changes, then closes) so the actionable items are at the top.
+
+After writing the file, run `open pr-review-report.html` (macOS) so it opens in the browser, then tell the user the path. Also give a brief summary in chat (the counts and any borderline calls worth their attention).
+
+### Step 5: Get approval
+Explicitly ask the user to approve the recommendations or override any before proceeding to Phase 2. Do not close or merge anything until they confirm. The user reviews the decisions in the HTML report.
 
 ## Phase 2: Actuation
 
@@ -95,7 +106,7 @@ Summarize what was done: how many merged, how many closed, any issues encountere
 - **Always present findings before acting.** Never close or merge without user approval.
 - **Be strict.** A project with 0-2 GitHub stars and no npm downloads is too early-stage, regardless of how nice the README looks.
 - **Closed-source SaaS** products without a public repo or detailed integration docs should generally be rejected.
-- **Projects not using Playwright** (e.g., using CDP directly) do not belong on this list.
-- **Stealth/anti-detection** tools or forks are an automatic reject.
+- **Projects not using Playwright** (e.g., a competing engine or Playwright *alternative*) do not belong on this list — the tool must be built *on* Playwright.
+- **Scraping, non-testing automation, and anti-detection/stealth** tools built on Playwright are in scope — file them under the **Scraping & Automation** section, not Utils. (Still reject ticket scalping, doubtful-ToS government-portal automation, and closed-source SaaS where the value is a paid hosted service.)
 - **Use parallel subagents** to research PRs efficiently - batch 5-6 PRs per agent.
 - **Friendly closing comments** - always thank the submitter and explain why briefly. Invite them to resubmit if circumstances change.

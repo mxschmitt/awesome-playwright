@@ -104,6 +104,7 @@
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [testomatio-reporter](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 - [playwright-timeline-reporter](https://github.com/vitalets/playwright-timeline-reporter) - An interactive timeline reporter to optimize your test run performance and worker utilization.
+- [tracelane](https://github.com/Cubenest/rrweb-stack) - Captures failed Playwright tests as self-contained, offline-replayable HTML reports via rrweb, with console and failed-network panels. No backend.
 
 ## Showcases
 

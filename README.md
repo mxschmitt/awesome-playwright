@@ -87,6 +87,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [openapi-skills] (https://www.npmjs.com/package/openapi-skills) - AI skill bundle and CLI for understanding APIs from OpenAPI/GraphQL schemas (with Playwright API test generation).
 
 ## Reporters
 

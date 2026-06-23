@@ -112,6 +112,7 @@
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used to test TypeScript.js across browsers.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+- [Swarm Wiki](https://swarm-wiki.vercel.app) — Technical wiki with 16 Playwright E2E specs (Chromium + iPhone 14) testing an Angular 19 SPA. The Swarm pipeline uses Playwright MCP for autonomous browser testing: screenshot capture, accessibility snapshots, and visual regression testing.
 
 ## Guides
 

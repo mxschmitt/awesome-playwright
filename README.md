@@ -86,6 +86,7 @@
 
 ## AI & Agents
 
+- [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) - Curated list of AI-powered testing tools, frameworks, and resources for QA engineers, including a dedicated MCP-based testing section covering Playwright MCP and related tooling.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 

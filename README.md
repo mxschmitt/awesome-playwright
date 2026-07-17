@@ -88,6 +88,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [Ceki Browser Rental](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for AI agents. MCP-native, compatible with Playwright, Puppeteer, and any CDP-based automation. Real residential IPs, bypass captchas, crypto payouts. SDKs for Python, JS, LangChain, CrewAI, n8n.
 
 ## Reporters
 

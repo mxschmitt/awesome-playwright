@@ -111,6 +111,7 @@
 
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 - [playwright-examples](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
+- [Tessera](https://app.tesserae.site) - Playwright powers the live device viewports, streaming CDP screencast frames of many real browser sessions to a canvas at once.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used to test TypeScript.js across browsers.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.

@@ -28,6 +28,7 @@
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
 - [@guidepup/Playwright](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 - [Happo](https://docs.happo.io/docs/playwright) - Catch unexpected visual and accessibility changes and UI bugs.
+- [MailFixture](https://mailfixture.com/) - Programmatic email inboxes via API for testing signup, OTP and magic-link flows; waits for the message and extracts the code or link.
 - [Playwright Angular Schematic](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 - [Playwright CRX](https://github.com/ruifigueira/playwright-crx) - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).

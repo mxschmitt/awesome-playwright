@@ -95,6 +95,7 @@
 - [Checkly](https://www.checklyhq.com/docs/detect/testing/playwright-reporter/) - Uploads Playwright test results, screenshots, videos and traces to the Checkly platform for monitoring and debugging across global regions.
 - [currents-dev](https://currents.dev/) - A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests.
 - [echoed](https://github.com/mrasu/echoed) - Makes tests observable by visualizing OpenTelemetry data in HTML.
+- [FlakeTrack](https://github.com/cbrown350/flaketrack) - GitHub Action that ingests JUnit XML (including Playwright's junit reporter), detects flaky tests, and stores the history in your own repo — no external account or server.
 - [kinora](https://github.com/Kinora-dev/kinora) - Self-hostable dashboard for Playwright reports across projects and over time: pass rate, trends, per-test flaky/fail rate, and an embedded trace viewer that opens failures inline.
 - [monocart-reporter](https://github.com/cenfun/monocart-reporter) - A Playwright test reporter, shows suites/cases/steps in html grid.
 - [playwright-ctrf-json-reporter](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.

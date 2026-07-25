@@ -88,6 +88,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [demo-studio](https://github.com/AlexAnsart/demo-studio) - Agent skills that record polished product demo videos — Playwright capture, zone-based zooms, optional voiceover, and burned-in captions (`npx skills add AlexAnsart/demo-studio --all`).
 
 ## Reporters
 

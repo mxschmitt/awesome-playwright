@@ -114,6 +114,7 @@
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used to test TypeScript.js across browsers.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+- [google-maps-100-stops](https://github.com/b4thefomo/google-maps-100-stops) - Playwright is used to probe Google Maps' real route-stop limit (100, not the documented 10/25), with a reproducible lattice-URL test.
 
 ## Guides
 

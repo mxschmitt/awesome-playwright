@@ -58,6 +58,7 @@
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 - [nextcov](https://github.com/stevez/nextcov) - V8 code coverage collection and merging for Next.js apps tested with Playwright, unifying unit, component, and integration coverage into a single report.
 - [octomind.dev](https://octomind.dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
+- [QualityMax](https://qualitymax.io/) - AI-powered QA platform that generates, executes, and self-heals Playwright tests with deterministic release gates.
 - [playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill to make agents experts at writing, debugging and maintaining Playwright tests.
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 - [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creation of reusable, chainable component elements to reduce page object boilerplate.

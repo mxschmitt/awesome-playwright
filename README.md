@@ -86,6 +86,7 @@
 
 ## AI & Agents
 
+- [five46](https://github.com/sekharsdet/five46) - BYOK CLI that drives a real browser (or real HTTP requests) toward a plain-English goal using your own LLM key, entirely locally, and writes the result as a real, standalone Playwright spec (or `node:test` script).
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 

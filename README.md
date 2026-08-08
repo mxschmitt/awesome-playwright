@@ -88,6 +88,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [QAIA](https://github.com/QAIA-Project/QAIA) - Claude Code plugins that turn a user story into a traceable Gherkin test book, then into native Playwright tests using Page Object Model as fixtures.
 
 ## Reporters
 

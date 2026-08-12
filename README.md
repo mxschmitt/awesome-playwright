@@ -77,6 +77,7 @@
 
 ## Scraping & Automation
 
+- [Browserless](https://github.com/browserless/browserless) - Connects Playwright to remote managed browsers over WebSocket, with stealth and CAPTCHA handling.
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark) - Benchmark tool for testing browser automation engines against bot detection systems (Cloudflare, DataDome, reCAPTCHA, Akamai, PerimeterX, Kasada, ...).
 - [camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium with source-level fingerprint patches and a Playwright-compatible wrapper for Python and JavaScript.

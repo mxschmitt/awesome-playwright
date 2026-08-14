@@ -77,6 +77,7 @@
 
 ## Scraping & Automation
 
+- [AntiBrow](https://github.com/antibrow/antibrow) - Patched Chromium that returns a standard Playwright BrowserContext over CDP, with fingerprints applied in the C++ layer instead of injected scripts. MIT SDKs for Python and JavaScript, plus an MCP server mode.
 - [Browserless](https://github.com/browserless/browserless) - Connects Playwright to remote managed browsers over WebSocket, with stealth and CAPTCHA handling.
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark) - Benchmark tool for testing browser automation engines against bot detection systems (Cloudflare, DataDome, reCAPTCHA, Akamai, PerimeterX, Kasada, ...).
 - [camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.

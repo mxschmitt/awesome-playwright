@@ -90,6 +90,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [page-shot](https://github.com/painfulChen/page-shot) - Dual-viewport screenshots and visual QA built for AI coding agents: heuristic design audit plus side-by-side prototype-vs-implementation diffing.
 
 ## Reporters
 

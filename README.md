@@ -85,6 +85,7 @@
 - [Human Browser](https://humanbrowser.cloud) - Playwright drop-in that runs scripts on managed cloud browsers with residential IPs and device fingerprints, with an A2A + MCP endpoint.
 - [invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Drop-in Playwright replacement using a patched Firefox with source-level fingerprint and anti-detection patches.
 - [playwright-captcha](https://github.com/techinz/playwright-captcha) - Automated captcha solving for Playwright, Patchright and Camoufox. Supports Cloudflare Turnstile, reCAPTCHA V2 & V3.
+- [termux-playwright](https://github.com/uno-km/termux-playwright-demo) - Production-grade Playwright & Chromium browser automation and stealth crawler toolkit for Android Termux.
 
 ## AI & Agents
 

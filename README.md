@@ -88,6 +88,7 @@
 
 ## AI & Agents
 
+- [aftertaste](https://github.com/mcbbugu/aftertaste) - CLI that screenshots a URL and scores whether the UI still looks like AI slop.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 

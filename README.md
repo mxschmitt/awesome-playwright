@@ -90,6 +90,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [Waterfall AI Test](https://github.com/jiongfeng/waterfall-ai-test-platform) - Self-hosted visual workbench for Playwright Test Agents that turns requirements into editable plans and tests, then validates, repairs, and reverifies them in real browsers.
 
 ## Reporters
 

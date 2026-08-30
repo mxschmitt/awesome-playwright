@@ -88,6 +88,7 @@
 
 ## AI & Agents
 
+- [Muraqib](https://github.com/holistis/muraqib) - Nightly QA guardian for solo SaaS founders. Playwright tests your live app, Claude fixes failing tests automatically, you get one weekly email.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 

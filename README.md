@@ -120,6 +120,7 @@
 
 ## Guides
 
+- [How to Test OTP Emails in Playwright Using TempMailGrab](https://dev.to/banoth_sathish_6396d62d89/how-to-test-otp-emails-in-playwright-using-tempmailgrab-226i) - Guide to testing OTP email flows in Playwright with temporary inboxes and OTP extraction.
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.

@@ -90,6 +90,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) - MCP server and CLI that gives coding agents independent QA evidence (console errors, broken links, accessibility, performance, SEO, security) before declaring a change done, and generates/runs a deterministic Playwright repro behind a human-approval gate.
 
 ## Reporters
 

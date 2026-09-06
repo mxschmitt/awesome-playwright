@@ -90,6 +90,7 @@
 
 ## AI & Agents
 
+- [pixelpact](https://github.com/jamalkamaladdin/pixelpact) - Extracts a visual contract from a live page or Figma frame, then measures a Playwright driven implementation against it and reports every size, color, spacing, typography, state and animation value that drifted.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.

@@ -90,6 +90,7 @@
 
 ## AI & Agents
 
+- [AIHawk](https://github.com/feder-cr/AIHawk) - AI browser agent that browses, clicks, types and reads pages from plain-English instructions, built on a Playwright-style automation layer over a patched Firefox engine. Ships as an MCP server (`uvx aihawk`) for Claude Code, Codex and Gemini CLI, plus a standalone web UI.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.

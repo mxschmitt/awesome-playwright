@@ -116,6 +116,7 @@
 ## Showcases
 
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+- [lottie-render](https://github.com/steven-panxd/lottie-render) - Uses Playwright to capture Lottie animations frame by frame and FFmpeg to encode MP4 videos, with a Node.js library, CLI, and self-hosted demo.
 - [playwright-examples](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used to test TypeScript.js across browsers.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.

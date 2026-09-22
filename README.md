@@ -124,6 +124,8 @@
 
 ## Guides
 
+- [A checkout can finish with the wrong total](https://github.com/marketfauna/bot-barometer/tree/main/examples/checkout-assertions) - Local Playwright tutorial showing explicit amount assertions, a deliberate failing control, and an expected-rule change.
+
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.

@@ -26,6 +26,7 @@
 - [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
+- [DeviceDeck](https://github.com/devicelab-dev/DeviceDeck) - Test native iOS and Android apps with Playwright: the simulator or emulator is served as a web page whose DOM mirrors the app's accessibility tree.
 - [@guidepup/Playwright](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 - [Happo](https://docs.happo.io/docs/playwright) - Catch unexpected visual and accessibility changes and UI bugs.
 - [Playwright Angular Schematic](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.

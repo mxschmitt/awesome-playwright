@@ -79,6 +79,7 @@
 
 ## Scraping & Automation
 
+- [AdsCrawl](https://www.adscrawl.net/) - Connect Playwright to managed remote browsers over CDP, with JavaScript and Python SDKs plus rendered HTML, Markdown, and screenshots.
 - [AntiBrow](https://github.com/antibrow/antibrow) - Patched Chromium that returns a standard Playwright BrowserContext over CDP, with fingerprints applied in the C++ layer instead of injected scripts. MIT SDKs for Python and JavaScript, plus an MCP server mode.
 - [Browserless](https://github.com/browserless/browserless) - Connects Playwright to remote managed browsers over WebSocket, with stealth and CAPTCHA handling.
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark) - Benchmark tool for testing browser automation engines against bot detection systems (Cloudflare, DataDome, reCAPTCHA, Akamai, PerimeterX, Kasada, ...).

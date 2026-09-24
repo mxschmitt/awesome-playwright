@@ -74,6 +74,7 @@
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
 - [selenosis](https://github.com/alcounit/selenosis) - Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.
+- [supercov](https://github.com/supercorp-ai/supercov) - Playwright coverage, security and code quality for coding agents.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 

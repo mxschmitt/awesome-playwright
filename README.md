@@ -32,7 +32,6 @@
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 - [Playwright CRX](https://github.com/ruifigueira/playwright-crx) - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).
 - [playwright-graphql](https://www.npmjs.com/package/playwright-graphql?activeTab=readme) - Generates a type‑safe GraphQL client and fixtures for Playwright API tests, with a CLI for schema/operation generation and optional coverage reporting.
-- [playwright-opentelemetry](https://github.com/endformdev/playwright-opentelemetry) - OpenTelemetry traces from Playwright tests - with propagation, OTLP export, and a viewer that pairs screenshots with backend spans
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 - [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
 
@@ -106,6 +105,7 @@
 - [monocart-reporter](https://github.com/cenfun/monocart-reporter) - A Playwright test reporter, shows suites/cases/steps in html grid.
 - [Piwi](https://github.com/PiwiTests/platform) - Self-hosted Playwright dashboard with live run streaming, cross-project analytics, locator healing, flaky tracking, MCP server, and optional AI-assisted diagnosis.
 - [playwright-ctrf-json-reporter](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
+- [playwright-opentelemetry](https://github.com/endformdev/playwright-opentelemetry) - OpenTelemetry reporter for Playwright with trace propagation, OTLP export, and a viewer pairing screenshots with backend spans.
 - [playwright-slack-report](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favorite Slack channel(s).
 - [playwright-smart-reporter](https://www.npmjs.com/package/playwright-smart-reporter) - A feature-rich HTML reporter with stability grades, trend analytics, retry analysis, performance tracking, and optional AI-powered failure analysis.
 - [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.

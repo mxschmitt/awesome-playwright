@@ -23,6 +23,7 @@
 - [artillery-engine-playwright](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 - [@axe-core/Playwright](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
 - [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Unofficial integration of Axe with Playwright.
+- [Capture Signoff](https://capturesignoff.com/developers/?utm_source=github&utm_medium=awesome-playwright) - URL proof flow (screenshots → PDF receipt → per-page approvals) driven from Playwright.
 - [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.

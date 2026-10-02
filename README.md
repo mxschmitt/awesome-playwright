@@ -107,6 +107,7 @@
 - [monocart-reporter](https://github.com/cenfun/monocart-reporter) - A Playwright test reporter, shows suites/cases/steps in html grid.
 - [Piwi](https://github.com/PiwiTests/platform) - Self-hosted Playwright dashboard with live run streaming, cross-project analytics, locator healing, flaky tracking, MCP server, and optional AI-assisted diagnosis.
 - [playwright-ctrf-json-reporter](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
+- [playwright-opentelemetry](https://github.com/endformdev/playwright-opentelemetry) - OpenTelemetry reporter for Playwright with trace propagation, OTLP export, and a viewer pairing screenshots with backend spans.
 - [playwright-slack-report](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favorite Slack channel(s).
 - [playwright-smart-reporter](https://www.npmjs.com/package/playwright-smart-reporter) - A feature-rich HTML reporter with stability grades, trend analytics, retry analysis, performance tracking, and optional AI-powered failure analysis.
 - [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.

@@ -73,6 +73,7 @@
 - [playwright-ui5](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
+- [Proxy QA Browser](https://github.com/UbaidBinWaris/proxy_browser) - Desktop QA app built on Playwright: browser × device × location matrices, visual comparisons and an MCP server for your own sites.
 - [selenosis](https://github.com/alcounit/selenosis) - Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.
 - [supercov](https://github.com/supercorp-ai/supercov) - Wraps an existing Playwright test run to report line, branch and MC/DC coverage per test, worker and retry, without config or a custom reporter.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.

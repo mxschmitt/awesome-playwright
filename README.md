@@ -69,6 +69,7 @@
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.
 - [playwright-soak-test](https://github.com/denodell/playwright-soak-test) - Catches memory leaks by repeating a user flow in one browser session and tracking DOM node and listener counts.
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
+- [playwright-tia](https://github.com/MathiasPaulenko/playwright-tia) - Test Impact Analysis for Playwright: runs only the specs affected by application source changes, using real per-spec V8 coverage.
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 - [playwright-ui5](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.

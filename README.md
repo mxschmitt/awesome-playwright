@@ -95,6 +95,7 @@
 - [Cutaway](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [rea-captcha](https://github.com/masakaai/rea-captcha) - Pauses Browser Use and Playwright tasks when CAPTCHA interrupts them, keeps the same session through an authorized test action or human handoff and resumes only after fresh validation.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
 
 ## Reporters

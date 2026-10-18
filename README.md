@@ -92,6 +92,7 @@
 
 ## AI & Agents
 
+- [CUGA](https://github.com/cuga-project/cuga-agent) - IBM Research generalist agent that combines API calls with Playwright-driven browser actions to complete hybrid web tasks.
 - [Cutaway](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.

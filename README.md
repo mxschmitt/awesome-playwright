@@ -77,6 +77,7 @@
 - [supercov](https://github.com/supercorp-ai/supercov) - Wraps an existing Playwright test run to report line, branch and MC/DC coverage per test, worker and retry, without config or a custom reporter.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- [ScreenshotRun](https://screenshotrun.com) - Screenshot API for developers. Capture full-page screenshots, PDFs, and HTML-to-image conversions via a simple REST endpoint.
 
 ## Scraping & Automation
 

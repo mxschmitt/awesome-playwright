@@ -62,6 +62,7 @@
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 - [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creation of reusable, chainable component elements to reduce page object boilerplate.
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
+- [playwright-mock-microphone](https://github.com/ya8282/playwright-mock-microphone) - Fake microphone that feeds getUserMedia a tone or audio file, or denies permission, on Chromium, Firefox and WebKit.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - Plugin for measuring and analyzing performance of tested flows using Playwright.
 - [pixelpact](https://github.com/jamalkamaladdin/pixelpact) - Extracts a visual contract from a reference page and reports the size, color, spacing and typography values that drifted in an implementation.

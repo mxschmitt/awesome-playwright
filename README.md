@@ -51,6 +51,7 @@
 
 - [@bgotink/playwright-coverage](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshots and ref targeting, built on Playwright.
+- [cloneproof](https://github.com/pcjansen09-max/cloneproof) - Measures how close an AI-built website clone is to the original (pixels, layout, style, motion) using Playwright, and writes the exact diff as a fix prompt for your coding agent.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
 - [Heroshot](https://github.com/omachala/heroshot) - Documentation screenshot automation. Visual picker to define screenshots, one command to regenerate them all.

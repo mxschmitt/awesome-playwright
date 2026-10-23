@@ -54,6 +54,7 @@
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
 - [Heroshot](https://github.com/omachala/heroshot) - Documentation screenshot automation. Visual picker to define screenshots, one command to regenerate them all.
+- [InboxRhino](https://inboxrhino.in/docs/playwright) - Real receive-only inboxes for waiting on signup, OTP, magic-link and password-reset emails in Playwright tests.
 - [Libretto](https://github.com/saffron-health/libretto) - Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, and generate automation scripts.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 - [nextcov](https://github.com/stevez/nextcov) - V8 code coverage collection and merging for Next.js apps tested with Playwright, unifying unit, component, and integration coverage into a single report.

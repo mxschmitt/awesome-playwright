@@ -132,6 +132,7 @@
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
 - [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.
+- [Test Automation TV](https://demo.testautomationtv.com/practice) - Free Playwright practice site with interactive demo pages, API endpoints,interview prep section, and a blog of Playwright tutorials.
 - [Testing 3D applications with Playwright on GPU](https://blog.promaton.com/testing-3d-applications-with-playwright-on-gpu-1e9cfc8b54a9) - Recipe to enable hardware acceleration for Playwright tests on CI.
 
 ## Contribute

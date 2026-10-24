@@ -116,6 +116,7 @@
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [testomatio-reporter](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 - [playwright-timeline-reporter](https://github.com/vitalets/playwright-timeline-reporter) - An interactive timeline reporter to optimize your test run performance and worker utilization.
+- [Ace Reports](https://www.npmjs.com/package/@acereports/playwright) - Self-contained HTML reports for Playwright Test, including steps, API request calls, categories, projects, and retry attempts.
 
 ## Showcases
 

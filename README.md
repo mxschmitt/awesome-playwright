@@ -117,6 +117,8 @@
 - [testomatio-reporter](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 - [playwright-timeline-reporter](https://github.com/vitalets/playwright-timeline-reporter) - An interactive timeline reporter to optimize your test run performance and worker utilization.
 
+- [XYVA QA Studio](https://xyva.ai/) - A local-first review and decision layer that helps Playwright teams turn test results into shared context and clear next steps while execution, repositories and credentials stay in their own environment.
+
 ## Showcases
 
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.

@@ -129,6 +129,7 @@
 
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
+- [Playwright TypeScript cho người mới (Vietnamese)](https://viblo.asia/p/playwright-typescript-cho-nguoi-moi-tu-cai-dat-den-page-object-fixture-va-test-data-driven-vbLbjRGpLnk) - Beginner guide in Vietnamese covering setup, Page Objects, fixtures and data-driven tests, with a runnable starter repo.
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
 - [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.

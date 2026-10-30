@@ -128,6 +128,7 @@
 ## Guides
 
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.
+- [Playwright Practice Lab](https://github.com/automationdatacamp/adc-playwright-practice-lab) - Before/after exercises on reviewing tests: assert business results, avoid flaky waits, review AI-generated tests.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.

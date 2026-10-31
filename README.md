@@ -128,6 +128,8 @@
 ## Guides
 
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.
+- [Debugging flaky Playwright tests](https://momentic.ai/blog/how-to-debug-and-fix-flaky-playwright-tests) - Root causes of flaky tests (timing, network, selectors, CI differences, shared state), how to reproduce them with `--repeat-each` and CPU throttling, and how to fix each one.
+- [Migrating from Selenium to Playwright](https://momentic.ai/blog/migrate-selenium-playwright) - An 11-step migration plan with the Selenium-to-Playwright API mapping, what breaks during the move, and how Selenium Grid parallel runs map to Playwright workers in CI.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.

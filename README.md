@@ -121,6 +121,7 @@
 ## Showcases
 
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+- [Email Blackhole Playwright starter](https://github.com/nbs-applications/emailblackhole-playwright-starter) - Runnable project that tests a password-reset email end to end: waits for the email, opens the link, sets a new password.
 - [playwright-examples](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used to test TypeScript.js across browsers.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.

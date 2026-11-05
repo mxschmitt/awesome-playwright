@@ -77,6 +77,7 @@
 - [supercov](https://github.com/supercorp-ai/supercov) - Wraps an existing Playwright test run to report line, branch and MC/DC coverage per test, worker and retry, without config or a custom reporter.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- [WebMCP Explorer by Corsen AI](https://github.com/CorsenAI/webmcp-explorer) - Chrome extension that inspects and runs the WebMCP tools a page registers and exports a reviewed tool call or recipe as a standalone `@playwright/test` reproduction, alongside SARIF security reports.
 
 ## Scraping & Automation
 

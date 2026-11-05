@@ -93,6 +93,7 @@
 ## AI & Agents
 
 - [Cutaway](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
+- [GenClass MCP](https://github.com/genclass-dev/GenClass/tree/main/packages/mcp) - MCP server that lets coding agents repeat a Playwright scenario with responses delivered in different orders to find race conditions in a web app, replay one exact order, and generate a Playwright test that fails while the bug is there.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.

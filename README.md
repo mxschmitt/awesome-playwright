@@ -120,6 +120,7 @@
 ## Showcases
 
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+- [nexus-studioqa-examples](https://github.com/verdict-system-LLC/nexus-studioqa-examples) - One Playwright test per kind of result (real bug, flaky, timeout, blocked, unreachable, crash), runnable offline.
 - [playwright-examples](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 - [TypeScript](https://github.com/microsoft/TypeScript) - Playwright is used to test TypeScript.js across browsers.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.

@@ -49,6 +49,7 @@
 
 ## Utils
 
+- [assay](https://github.com/awss1i/assay) - Deterministic QA CLI that serves a local page, drives every control it finds (buttons, inputs, dropdowns, canvases, forms) in Chromium via Playwright, and reports where the page contradicts itself. No tests to write and no LLM, with a Python API, an HTML report, and a skill and plugin for coding agents.
 - [@bgotink/playwright-coverage](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshots and ref targeting, built on Playwright.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.

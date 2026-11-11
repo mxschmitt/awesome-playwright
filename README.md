@@ -89,6 +89,7 @@
 - [Human Browser](https://humanbrowser.cloud) - Playwright drop-in that runs scripts on managed cloud browsers with residential IPs and device fingerprints, with an A2A + MCP endpoint.
 - [invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Drop-in Playwright replacement using a patched Firefox with source-level fingerprint and anti-detection patches.
 - [playwright-captcha](https://github.com/techinz/playwright-captcha) - Automated captcha solving for Playwright, Patchright and Camoufox. Supports Cloudflare Turnstile, reCAPTCHA V2 & V3.
+- [Workday Autofill](https://github.com/HarshadLambate/workday-autofill) - Free, open-source Playwright-based job application automation for Workday, Lever, and Greenhouse. Finds matching jobs, autofills application forms, reuses saved answers, and uploads resumes and personalized cover letters. Users review and submit applications themselves.
 
 ## AI & Agents
 

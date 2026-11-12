@@ -34,6 +34,7 @@
 - [playwright-graphql](https://www.npmjs.com/package/playwright-graphql?activeTab=readme) - Generates a type‑safe GraphQL client and fixtures for Playwright API tests, with a CLI for schema/operation generation and optional coverage reporting.
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 - [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
+- [webhooks.cc](https://webhooks.cc/docs/guides/test-signup-emails-playwright) - Capture the emails and webhooks an app sends during a test, to follow sign-up links, read one-time codes and assert on payloads.
 
 ## Language Support
 

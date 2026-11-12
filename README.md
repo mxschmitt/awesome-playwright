@@ -96,6 +96,7 @@
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
+- [Witness](https://github.com/wookat/witness) - Voice-anchored evidence recorder for coding agents. A human speaks while using a product; each utterance is welded to the clicks, requests, console errors and rrweb replay of that second, served over MCP.
 
 ## Reporters
 

@@ -59,6 +59,7 @@
 - [nextcov](https://github.com/stevez/nextcov) - V8 code coverage collection and merging for Next.js apps tested with Playwright, unifying unit, component, and integration coverage into a single report.
 - [octomind.dev](https://octomind.dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill to make agents experts at writing, debugging and maintaining Playwright tests.
+- [playwright-affected](https://github.com/qa-gary-parker/playwright-affected) - Maps a pull request's git diff to one `--grep` so CI runs only the affected tests, and runs the full suite whenever it cannot decide.
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 - [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creation of reusable, chainable component elements to reduce page object boilerplate.
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
@@ -66,6 +67,7 @@
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - Plugin for measuring and analyzing performance of tested flows using Playwright.
 - [pixelpact](https://github.com/jamalkamaladdin/pixelpact) - Extracts a visual contract from a reference page and reports the size, color, spacing and typography values that drifted in an implementation.
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
+- [playwright-shard-balancer](https://github.com/qa-gary-parker/playwright-shard-balancer) - Splits tests across shards by recorded duration instead of test count, so every shard finishes at about the same time.
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.
 - [playwright-soak-test](https://github.com/denodell/playwright-soak-test) - Catches memory leaks by repeating a user flow in one browser session and tracking DOM node and listener counts.
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.

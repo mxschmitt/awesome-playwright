@@ -92,6 +92,7 @@
 
 ## AI & Agents
 
+- [agentic-playwright](https://github.com/idavidov13/agentic-playwright) - Playwright and TypeScript test scaffold with a rules file, skills and lint gates for coding agents (Claude Code, Codex, Cursor, Copilot), installed with `npm create agentic-playwright`.
 - [Cutaway](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.

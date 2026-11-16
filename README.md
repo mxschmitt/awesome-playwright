@@ -113,6 +113,7 @@
 - [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
 - [playwright-xray](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
 - [qase](https://github.com/qase-tms/qase-javascript/tree/main/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io).
+- [Squally](https://squally.dev) - Hosted dashboard for Playwright CI runs that tracks flaky tests across runs and the time lost to retries and failures. Hosted in Germany.
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [testomatio-reporter](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 - [playwright-timeline-reporter](https://github.com/vitalets/playwright-timeline-reporter) - An interactive timeline reporter to optimize your test run performance and worker utilization.

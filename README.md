@@ -102,6 +102,7 @@
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [show-your-work](https://github.com/iamumeransari/claude-show-your-work) - Claude Code plugin that plays Playwright test recordings inline in the terminal, with before/after runs side by side.
+- [Tourwright](https://github.com/CXmiloxx/tourwright) - Turns a YAML script into a narrated product tour video: real Chromium with an animated cursor, highlights, captions and text-to-speech, rendered to MP4. CLI, HTTP API, MCP server and GitHub Action.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
 
 ## Reporters

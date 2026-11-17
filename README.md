@@ -91,6 +91,7 @@
 - [Figranium](https://github.com/figranium/figranium) - Build complex browser workflows visually and execute them via API. Dockerized and Playwright-based.
 - [Human Browser](https://humanbrowser.cloud) - Playwright drop-in that runs scripts on managed cloud browsers with residential IPs and device fingerprints, with an A2A + MCP endpoint.
 - [invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Drop-in Playwright replacement using a patched Firefox with source-level fingerprint and anti-detection patches.
+- [Parse Everything](https://github.com/zenkdom/parse-everything-global) - Web scraping API and anti-bot bypass engine using Playwright stealth automation and TLS impersonation.
 - [playwright-captcha](https://github.com/techinz/playwright-captcha) - Automated captcha solving for Playwright, Patchright and Camoufox. Supports Cloudflare Turnstile, reCAPTCHA V2 & V3.
 
 ## AI & Agents

@@ -96,7 +96,7 @@
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
-
+- [stillworks](https://github.com/valmirjunior2109-spec/stillworks) - CLI that runs critical user journeys in a real browser after coding agent changes and writes each failure as a report the agent can fix.
 ## Reporters
 
 - [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.

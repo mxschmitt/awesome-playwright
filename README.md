@@ -67,6 +67,7 @@
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - Plugin for measuring and analyzing performance of tested flows using Playwright.
 - [pixelpact](https://github.com/jamalkamaladdin/pixelpact) - Extracts a visual contract from a reference page and reports the size, color, spacing and typography values that drifted in an implementation.
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
+- [playwright-recorder-plus](https://github.com/MuTsunTsai/playwright-recorder-plus) - Higher-quality alternative to the built-in `recordVideo`, with H.264/VP9 output, pause/resume, crop, multi-page contexts, and inline audio scheduling.
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.
 - [playwright-soak-test](https://github.com/denodell/playwright-soak-test) - Catches memory leaks by repeating a user flow in one browser session and tracking DOM node and listener counts.
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
@@ -82,6 +83,7 @@
 ## Scraping & Automation
 
 - [AntiBrow](https://github.com/antibrow/antibrow) - Patched Chromium that returns a standard Playwright BrowserContext over CDP, with fingerprints applied in the C++ layer instead of injected scripts. MIT SDKs for Python and JavaScript, plus an MCP server mode.
+- [Browser Use Cloud](https://browser-use.com/playwright) - Managed stealth Chromium for Playwright over `connectOverCDP`, with CAPTCHA solving and residential proxies.
 - [Browserless](https://github.com/browserless/browserless) - Connects Playwright to remote managed browsers over WebSocket, with stealth and CAPTCHA handling.
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark) - Benchmark tool for testing browser automation engines against bot detection systems (Cloudflare, DataDome, reCAPTCHA, Akamai, PerimeterX, Kasada, ...).
 - [camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.
@@ -93,7 +95,9 @@
 
 ## AI & Agents
 
+- [agentic-playwright](https://github.com/idavidov13/agentic-playwright) - Playwright and TypeScript test scaffold with a rules file, skills and lint gates for coding agents (Claude Code, Codex, Cursor, Copilot), installed with `npm create agentic-playwright`.
 - [Cutaway](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
+- [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing framework using Playwright for browser tests, with natural-language agent steps, locator assertions, and replay of verified actions.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.

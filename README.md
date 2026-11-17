@@ -66,6 +66,7 @@
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - Plugin for measuring and analyzing performance of tested flows using Playwright.
 - [pixelpact](https://github.com/jamalkamaladdin/pixelpact) - Extracts a visual contract from a reference page and reports the size, color, spacing and typography values that drifted in an implementation.
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
+- [playwright-recorder-plus](https://github.com/MuTsunTsai/playwright-recorder-plus) - Higher-quality alternative to the built-in `recordVideo`, with H.264/VP9 output, pause/resume, crop, multi-page contexts, and inline audio scheduling.
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.
 - [playwright-soak-test](https://github.com/denodell/playwright-soak-test) - Catches memory leaks by repeating a user flow in one browser session and tracking DOM node and listener counts.
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.

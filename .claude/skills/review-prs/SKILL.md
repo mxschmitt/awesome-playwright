@@ -10,7 +10,7 @@ You are helping an awesome-list maintainer review open pull requests. Most PRs o
 ## Phase 1: Research & Report
 
 ### Step 1: Gather context
-1. Read `references/review-criteria.md` (in this skill's base directory) for the full 10-point review criteria.
+1. Read `references/review-criteria.md` (in this skill's base directory) for the full review criteria (incl. author reputation).
 2. Read `README.md` to understand existing entries, categories, and formatting conventions.
 3. Fetch all open PRs:
    ```bash
@@ -33,7 +33,18 @@ For each PR, collect evidence in parallel using subagents (batch 5-6 PRs per age
 3. **Check npm downloads** if relevant:
    ```bash
    npm view <package-name> --json 2>/dev/null | jq '{weekly_downloads: .dist-tags}'
+   curl -s https://api.npmjs.org/downloads/point/last-week/<package-name> | jq .downloads
    ```
+
+4. **Vet the PR author** (one sequential loop for all authors, with ~2s sleep to avoid search rate limits):
+   ```bash
+   gh api users/<login> --jq '{created_at, followers, public_repos, company}'
+   gh api "users/<login>/repos?per_page=100&type=owner" --jq '[.[] | select(.fork|not) | .stargazers_count] | add // 0'   # total stars
+   gh api "search/issues?q=author:<login>+type:pr+is:merged+-user:<login>&per_page=1" --jq .total_count               # merged PRs to others' repos
+   ```
+   Classify each author as **Well-known** (e.g. ≥100 followers, ≥500 total stars, maintainer of a recognized org/project, or already has an entry on this list), **Established** (account >1 year with real OSS history), or **New/unknown** (account <6 months, near-zero followers/stars, or a brand/product account created just for the project). Red flags: account created days before the project, dozens of repos/PRs in weeks (bot-like), vendor employee promoting their own SaaS, repeat resubmissions of a rejected entry. Author reputation can tip borderline calls but never overrides scope/closed-SaaS rules.
+
+5. **Double-check before reporting**: independently re-fetch stars/license/last push for every linked repo and compare with the subagent results; re-read the actual diff lines for every MERGE / REQUEST CHANGES and borderline CLOSE. Fix any discrepancies before writing the report.
 
 ### Step 3: Apply review criteria
 Evaluate each PR against the criteria from `references/review-criteria.md`. Key filters:
@@ -55,19 +66,19 @@ The report MUST contain:
 1. **Header**: title, generation date, and counts (total PRs, # merge, # close, # request changes).
 
 2. **A summary table** near the top with one row per PR. Columns:
-   `PR # | Title | Author | Target section | Stars | License | Last activity | Recommended action | Reason`
+   `PR # | Title | Author (+ reputation tier) | Target section | Stars | License | Last activity | Recommended action | Reason`
    - Make the PR # a clickable link to the PR URL.
    - Color-code the action cell so it's scannable: **MERGE** = green, **CLOSE** = red, **REQUEST CHANGES** = amber. Use an inline `style` or a CSS class with a colored badge.
 
 3. **Per-PR detail cards** (one per PR, below the table), each showing:
-   - PR number + title (linked), author
+   - PR number + title (linked), author with reputation tier and key stats (account age, followers, total stars, merged PRs elsewhere, notable affiliation)
    - What it adds (one factual sentence) and which section/line the diff targets
    - Project stats: stars, license, created date, last activity, npm info if relevant
    - Any red flags (scope, ethics/ToS, duplication, licensing, formatting)
    - The recommended action as a colored badge, plus a one-sentence reason
    - For **CLOSE**: include the draft friendly closing comment (in a `<blockquote>` or `<pre>`) so the user can review the exact wording before it's posted.
 
-Keep the verdicts to **MERGE**, **CLOSE**, or **REQUEST CHANGES**. Sort the cards by recommended action (merges first, then request-changes, then closes) so the actionable items are at the top.
+Keep it professional and concise: neutral tone, no emoji, one-line reasons, compact cards (closes can be collapsed via `<details>`). Keep the verdicts to **MERGE**, **CLOSE**, or **REQUEST CHANGES**. Sort the cards by recommended action (merges first, then request-changes, then closes) so the actionable items are at the top.
 
 After writing the file, run `open pr-review-report.html` (macOS) so it opens in the browser, then tell the user the path. Also give a brief summary in chat (the counts and any borderline calls worth their attention).
 

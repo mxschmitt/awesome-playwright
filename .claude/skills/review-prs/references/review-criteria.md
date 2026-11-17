@@ -80,7 +80,16 @@ Reviewer should always check:
 - README confirms the claim in the description
 - It actually uses/targets Playwright (not just mentions it)
 
-## 10) Suggested decision outcomes
+## 10) Author reputation
+
+Check who is submitting:
+- **Well-known**: maintainer of a recognized project/org, significant followers or stars, or already has an accepted entry here — give borderline entries fair consideration.
+- **Established**: older account with genuine OSS history.
+- **New/unknown**: account created around the same time as the project, near-zero followers/stars, a brand account made for the product, or bot-like activity (many repos/PRs in a few weeks).
+
+Reputation informs borderline calls; it never overrides scope, closed-SaaS, or ethics rules. Note repeat resubmissions of previously rejected entries.
+
+## 11) Suggested decision outcomes
 
 - **Merge as-is**: perfect fit, neutral description
 - **Request changes**: good fit, but description/category/format needs tweaks

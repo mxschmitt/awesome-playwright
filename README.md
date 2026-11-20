@@ -107,6 +107,7 @@
 ## Reporters
 
 - [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
+- - [artifactless](https://github.com/Dionisrh89/artifactless) - Playwright test reports in GitHub Actions logs. No artifacts.
 - [Checkly](https://www.checklyhq.com/docs/detect/testing/playwright-reporter/) - Uploads Playwright test results, screenshots, videos and traces to the Checkly platform for monitoring and debugging across global regions.
 - [currents-dev](https://currents.dev/) - A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests.
 - [echoed](https://github.com/mrasu/echoed) - Makes tests observable by visualizing OpenTelemetry data in HTML.

@@ -75,10 +75,12 @@
 - [playwright-ui5](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 - [POMWright](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
+- [safe-html-pdf](https://github.com/saimulft/safe-html-pdf) - Playwright PDF renderer for untrusted or AI-written HTML, with JavaScript and network off, hard limits and a layout lint.
 - [selenosis](https://github.com/alcounit/selenosis) - Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.
 - [supercov](https://github.com/supercorp-ai/supercov) - Wraps an existing Playwright test run to report line, branch and MC/DC coverage per test, worker and retry, without config or a custom reporter.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- [viewport-qa](https://github.com/saimulft/viewport-qa) - CLI and library that loads a page in Chromium at widths from 390 to 3840 px and reports overflow, clipped text, layout shift and low-resolution images.
 
 ## Scraping & Automation
 

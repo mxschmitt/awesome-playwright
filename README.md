@@ -79,6 +79,7 @@
 - [supercov](https://github.com/supercorp-ai/supercov) - Wraps an existing Playwright test run to report line, branch and MC/DC coverage per test, worker and retry, without config or a custom reporter.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+- [stillworks](https://github.com/valmirjunior2109-spec/stillworks) - Runs your critical user journeys after AI code changes and writes the failure as a prompt your coding agent can fix.
 
 ## Scraping & Automation
 

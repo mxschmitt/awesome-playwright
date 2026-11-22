@@ -101,6 +101,7 @@
 - [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing framework using Playwright for browser tests, with natural-language agent steps, locator assertions, and replay of verified actions.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [renderlint](https://github.com/ngocanhnckh/renderlint) - Linter for the rendered UI, built on Playwright: opens each page at phone, tablet and desktop widths, reports overflowing text, low contrast, overlapping and clipped elements and broken responsive layouts with annotated screenshots, and blocks coding agents (Claude Code hook) until they're fixed.
 - [show-your-work](https://github.com/iamumeransari/claude-show-your-work) - Claude Code plugin that plays Playwright test recordings inline in the terminal, with before/after runs side by side.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
 

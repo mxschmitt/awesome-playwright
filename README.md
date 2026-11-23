@@ -87,6 +87,7 @@
 - [Browserless](https://github.com/browserless/browserless) - Connects Playwright to remote managed browsers over WebSocket, with stealth and CAPTCHA handling.
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark) - Benchmark tool for testing browser automation engines against bot detection systems (Cloudflare, DataDome, reCAPTCHA, Akamai, PerimeterX, Kasada, ...).
 - [camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.
+- [Chromaphore Browser](https://github.com/nodriver-project/Chromaphore-Browser) - Chromium build for AI agents and scrapers that Playwright drives via `executablePath` or `connectOverCDP`, with CDP commands for human-timed input and page snapshots, and an in-browser fingerprint identity.
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium with source-level fingerprint patches and a Playwright-compatible wrapper for Python and JavaScript.
 - [Figranium](https://github.com/figranium/figranium) - Build complex browser workflows visually and execute them via API. Dockerized and Playwright-based.
 - [Human Browser](https://humanbrowser.cloud) - Playwright drop-in that runs scripts on managed cloud browsers with residential IPs and device fingerprints, with an A2A + MCP endpoint.

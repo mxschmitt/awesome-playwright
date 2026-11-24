@@ -95,6 +95,7 @@
 
 ## AI & Agents
 
+- [Agentic Test Explorer](https://github.com/srbarrios/agentic-test-explorer) - LangGraph persona agents explore any web app through a deterministic Playwright engine that rejects brittle selectors and turns every bug found into a reproducible `.spec.ts`.
 - [agentic-playwright](https://github.com/idavidov13/agentic-playwright) - Playwright and TypeScript test scaffold with a rules file, skills and lint gates for coding agents (Claude Code, Codex, Cursor, Copilot), installed with `npm create agentic-playwright`.
 - [Cutaway](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
 - [DemoForge](https://github.com/DixitRam/Demo-Forge) - Turns a Playwright flow file into a narrated product demo video with auto-zoom on clicks.

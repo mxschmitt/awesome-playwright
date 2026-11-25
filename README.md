@@ -95,6 +95,7 @@
 
 ## AI & Agents
 
+- [Agent First Browse](https://github.com/SandeepAi369/Agent-first-browse) - Python browser automation engine and zero-API MCP server built on Playwright, with `MutationObserver` DOM settle, paint-order occlusion pruning, incremental delta snapshots, and stale-ref rebinding.
 - [agentic-playwright](https://github.com/idavidov13/agentic-playwright) - Playwright and TypeScript test scaffold with a rules file, skills and lint gates for coding agents (Claude Code, Codex, Cursor, Copilot), installed with `npm create agentic-playwright`.
 - [Cutaway](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
 - [DemoForge](https://github.com/DixitRam/Demo-Forge) - Turns a Playwright flow file into a narrated product demo video with auto-zoom on clicks.

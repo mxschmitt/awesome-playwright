@@ -117,6 +117,7 @@
 - [playwright-opentelemetry](https://github.com/endformdev/playwright-opentelemetry) - OpenTelemetry reporter for Playwright with trace propagation, OTLP export, and a viewer pairing screenshots with backend spans.
 - [playwright-slack-report](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favorite Slack channel(s).
 - [playwright-smart-reporter](https://www.npmjs.com/package/playwright-smart-reporter) - A feature-rich HTML reporter with stability grades, trend analytics, retry analysis, performance tracking, and optional AI-powered failure analysis.
+- [playwright-summary-reporter](https://github.com/salekinnewaz/playwright-summary-reporter) - Zero-dependency custom reporter generating actionable GitHub Actions job summaries with local re-run commands, error classification, and AI debugging prompts.
 - [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
 - [playwright-xray](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
 - [qase](https://github.com/qase-tms/qase-javascript/tree/main/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io).

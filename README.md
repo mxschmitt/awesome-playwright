@@ -99,6 +99,7 @@
 - [Cutaway](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
 - [DemoForge](https://github.com/DixitRam/Demo-Forge) - Turns a Playwright flow file into a narrated product demo video with auto-zoom on clicks.
 - [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing framework using Playwright for browser tests, with natural-language agent steps, locator assertions, and replay of verified actions.
+- [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open-source (MIT) commit-boundary verifier and GUI workflow compiler that wraps Playwright and desktop/web agents, runs repeating workflows deterministically with zero warm API calls, and produces signed Ed25519 receipts.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [show-your-work](https://github.com/iamumeransari/claude-show-your-work) - Claude Code plugin that plays Playwright test recordings inline in the terminal, with before/after runs side by side.

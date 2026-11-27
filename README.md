@@ -135,6 +135,7 @@
 ## Guides
 
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.
+- [Free Temp Mail API for Playwright Email & OTP Testing](https://temp-mail.agency/blog/free-temp-mail-api-playwright-testing) - Guide to automating signup verification, password resets, and automatic OTP extraction in Playwright using a free, zero-signup disposable email REST API.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
